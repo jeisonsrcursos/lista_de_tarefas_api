@@ -1,0 +1,8 @@
+venv
+resources
+.idea
+__pycache__
+tarefas/migrations/__pycache__
+lista_de_tarefas/__pycache__
+*/__pycache__
+database/db.sqlite3
